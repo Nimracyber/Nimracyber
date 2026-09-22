@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there, I'm Nimra Farooqi 👋
 
-<!--
-**Nimracyber/Nimracyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer passionate about building data analytics tools, machine learning models, and full-stack web applications.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently building: Data analytics and backend projects
+- 🌱 I’m currently learning: Advanced machine learning systems and cloud tools
+- 📫 How to reach me: Connect with me on LinkedIn or check out my portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Tech Stack & Tools
+- **Languages & Libraries:** Python, SQL, Pandas, NumPy, Scikit-learn
+- **Web Development:** FastAPI, React.js, Next.js, Tailwind CSS
+- **Tools:** Git, GitHub, VS Code, Jupyter Notebook
+
+---
+
+### 🚀 What I Do
+I love transforming raw data into insights, building intelligent backend pipelines, and creating clean, user-friendly applications.
