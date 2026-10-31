@@ -1,4 +1,3 @@
-[ReadMe.md](https://github.com/user-attachments/files/34215543/ReadMe.md)
 ### Hi there, I'm Nimra Farooqi 👋
 
 I'm a developer passionate about building data analytics tools, machine learning models, and full-stack web applications.
